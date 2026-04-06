@@ -22,7 +22,7 @@ classmates = [Classmate1, Classmate2, Classmate3, Classmate4, Classmate5]
 def Show(e):
     document.getElementById('output2').innerHTML = ''
 
-    for i, classmate in enumerate(classmates): # Enumerate starting from output *2*
+    for i, classmate in enumerate(classmates): 
         display(classmate.introduce(), target=f'output2')
 
 def New_Classmate(e):  #Allow user to add new classmates
