@@ -1,0 +1,88 @@
+body {
+    background-image: url(https://tse1.mm.bing.net/th/id/OIP.QSsoyTmZninskTX662taBwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3);
+    height: 100%;
+    width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    font-family: Pirata !important;
+}
+
+.pad {
+    padding-top: 15px !important;
+}
+
+.final_AHL {
+    font-family: Almendra !important;
+    font-size: 23px !important;
+}
+
+.title {
+    font-weight: 510 !important;
+    font-size: 45px !important;;
+}
+
+.header {
+    background-image: url(https://tse1.mm.bing.net/th/id/OIP.pwPOkB7GJPf54x-Jd_n0wwHaE8?w=900&h=600&rs=1&pid=ImgDetMain&o=7&rm=3);
+    background-size: cover;
+    background-position: center !important;
+    height: 350px !important;
+    opacity: 0.75;
+}
+
+.fix {
+    margin-left: 12px !important;
+}
+.margin {
+    margin: 15px !important;
+}
+
+.card_bg {
+    color: #ffffff !important;
+    background-color: #1d1c1c!important;
+    border-radius: 20px !important;
+    border: 1px dashed rgb(255, 255, 255) !important;
+    margin: 80px !important;  
+}
+
+.subject {
+    text-align: center;
+    align-items: justify;
+    margin: auto !important;
+}
+
+
+.org {
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.cen {
+    text-align: center !important;
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    justify-content: center !important;
+}
+
+.white {
+    color: #ffffff !important;
+}
+
+#footer {
+    background-color: #1d1c1c;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: 40px !important;
+    display: flex !important;
+    position: fixed !important;
+    align-items: center !important;
+    justify-content: center !important;
+    color: #ffffff;
+}
+
+
+
